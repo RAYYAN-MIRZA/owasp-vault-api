@@ -1,3 +1,12 @@
+<h1 align="center">OWASP Vault API</h1>
+
+<p align="center"><strong>Group Number:</strong> 12</p>
+
+## Project Description
+
+OWASP Vault is a deliberately vulnerable web application designed to demonstrate the OWASP selected Top 10 security risks. It includes both secure and insecure implementations of common web app features, helping learners understand and practice real-world exploitation and defense techniques for the Backend.
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -22,7 +31,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Tech Stack Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
