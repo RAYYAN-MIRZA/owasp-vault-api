@@ -106,3 +106,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+## Last But Not the Least
+
+In this path **src/database** of project,
+
+There a **.Bak** of Testing DB named as **VARE** is Present which can be Backed Up in SQL server and used Along With the Project.
